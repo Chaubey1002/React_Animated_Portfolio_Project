@@ -1,0 +1,22 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skils/HTML.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skils/CSS.PNG"
+    },
+    {
+        "title": "BOOTSTRAPS",
+        "imageSrc": "skils/Bootstrap_logo.svg.png"
+    },
+    {
+        "title": "JAVASCRIPT",
+        "imageSrc": "skils/javascript.PNG"
+    },
+    {
+        "title": "REACT JS",
+        "imageSrc": "skils/react.PNG"
+    }
+]

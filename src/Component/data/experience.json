@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "role": "Junior Software Development Engineer",
+        "organisation": "Google",
+        "startDate": "sept, 2023",
+        "endDate": "Present",
+        "location": "Bihar",
+        "experiences": [
+            "Worked on Google Gmail",
+            "Worked with the Google Bard Team"
+        ],
+        "imageSrc": "compani/amazon.logo.jpg"
+    },
+    {
+        "id": 2,
+        "role": "Junior Software Development Engineer",
+        "organisation": "Microsoft",
+        "startDate": "Aug, 2023",
+        "endDate": "Aug,2024",
+        "location": "London",
+        "experiences": [
+            "Worked on Google Gmail",
+            "Worked with the Google Bard Team"
+        ],
+        "imageSrc": "compani/Google_Icons.webp"
+    }
+]
